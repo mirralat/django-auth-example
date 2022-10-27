@@ -5,7 +5,7 @@ __Пример реализации логина юзера на джанге, �
 Запуск:
 
 1. Ставим python и pip
-2. Создаем проект в пайчарме
+2. Создаем проект в пайчарме, пишем pip install django, pip install psycopg2, pip install django-crispy-forms
 3. python manage.py makemigrations + python manage.py migrate
 4. python manage.py createsuperuser
 5. python manage.py runserver
